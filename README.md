@@ -5,5 +5,7 @@ Some useful ROS bags. Visit http://wiki.ros.org/Bags for more information.
 
 ## Bags
 
-* `ilab_fast.bag` - Mecanumbot laser scan data taken while driving quickly around the USC iLab hallway loop.
-* `ilab_slow.bag` - Mecanumbot laser scan data taken while driving slowly around the USC iLab hallway loop.
+| File Name | Description | Date |
+| --- | --- | --- |
+| `ilab_fast.bag` | Mecanumbot laser scan data (XV-11 laser) taken while driving quickly around the USC iLab hallway loop. | 2013/01/09 |
+| `ilab_slow.bag` | Mecanumbot laser scan data (XV-11 laser) taken while driving slowly around the USC iLab hallway loop. | 2013/01/09 |
